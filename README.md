@@ -17,3 +17,11 @@ There are three routes which can be accessed by all users: `/`, `/login` and `/r
 When you want to clone this repository, make sure to rename `.env.example` to `.env` and fill in the required environment variables.
 
 This repository will be used for a tutorial. The branch `starter-code` has the starter code with the pure frontend stuff.
+
+
+#TODO :
+
+Prisma ORM, capicator.js , BaaS client ? 
+UI: lottie animation from figma timeline , adaptive card.io , design system : fast.design with glass effect
+AI&ML : onnxruntime (transformer.js) and SemanticKernel.js 
+
