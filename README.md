@@ -21,7 +21,7 @@ This repository will be used for a tutorial. The branch `starter-code` has the s
 
 #TODO :
 
-Prisma ORM, capicator.js , BaaS client ? 
+Prisma ORM,cerbos authZ or microsoft(IDaaS),  capicator.js deployment , Paas client , 
 UI: lottie animation from figma timeline , adaptive card.io , design system : fast.design with glass effect
 AI&ML : onnxruntime (transformer.js) and SemanticKernel.js 
 
